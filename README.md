@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen
 - 👀 I’m interested in Python Development and DevOps technologies.
-- 🌱 I’m currently learning the Docker platform and how to use APIs. Hopefully this will give me some foundational knowledge. 
+- 🌱 I’m currently learning the Docker platform and how to use APIs. 
 - 💞️ I’m looking to collaborate on anything that would further my abilities as a DevOps engineer. I admit I have alot to learn, but I am a fast learner and
       I am developing a love and appreciation for the DevOps role.
 - 📫 How to reach me smdunn101@gmail.com
